@@ -1,6 +1,6 @@
 # Funny
 ## Pokemon
-Pokémon Viewer [Github](https://github.com/06wj/pokemon)/[Online](https://06wj.github.io/pokemon/demo/index.html#)
+Pokémon Viewer [Github](https://github.com/06wj/pokemon)/[Online Demo](https://06wj.github.io/pokemon/demo/index.html#)
 
 
 ## Animate
